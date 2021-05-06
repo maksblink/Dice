@@ -30,5 +30,5 @@ def dice(code: str):
     return result + z
 
 
-throw = dice("7D12-5")
+throw = dice("1D12-5")
 print(throw)
